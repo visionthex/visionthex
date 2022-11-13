@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning some programing in Python and C++.  I am also really intesested in CyberSecurity and doing anything related to that.
 - 💞️ I’m looking to collaborate on anything that I can learn from.
 
+I am also trying to learn how to use GitHub Properly.
+
 
 <!---
 visionthex/visionthex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
