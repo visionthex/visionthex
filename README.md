@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="https://giphy.com/embed/gtfppP6qR3tiU.gif" width="600" height="300"/>
+    <img src="https://giphy.com/embed/gtfppP6qR3tiU" width="600" height="300"/>
   </div>
 
 - 👋 Hi, I’m @visionthex
