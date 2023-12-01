@@ -1,3 +1,7 @@
+  <div align="center">
+    <img src="https://giphy.com/embed/zQinMHnDYiNnq" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen/>
+  </div>
+
 - 👋 Hi, I’m @visionthex
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning some programing in Python and C++.  I am also really intesested in CyberSecurity and doing anything related to that.
