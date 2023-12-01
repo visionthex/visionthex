@@ -1,8 +1,8 @@
-<img src="(https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif" alt="alt text" style="display: block; margin-left: auto; margin-right: auto;">
-
+<div align=center>
+  
   ![gif](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif)
 
-
+</div>
 - 👋 Hi, I’m @visionthex
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning some programing in Python and C++.  I am also really intesested in CyberSecurity and doing anything related to that.
