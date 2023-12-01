@@ -1,4 +1,4 @@
-
+<img src="(https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif" alt="alt text" style="display: block; margin-left: auto; margin-right: auto;">
 
   ![gif](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif)
 
