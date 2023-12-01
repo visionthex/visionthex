@@ -1,6 +1,6 @@
 
 
-  ![gif]("https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif")
+  ![gif](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif)
 
 
 - 👋 Hi, I’m @visionthex
