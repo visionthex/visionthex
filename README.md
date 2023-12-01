@@ -1,6 +1,7 @@
-  <div align="center">
-    <img src="https://giphy.com/gifs/reaction-gtfppP6qR3tiU" width="260" height="146"/>
-  </div>
+
+
+  ![gif]("https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif")
+
 
 - 👋 Hi, I’m @visionthex
 - 👀 I’m interested in CyberSecurity
