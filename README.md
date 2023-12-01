@@ -1,5 +1,6 @@
-<div><iframe src="https://giphy.com/embed/gtfppP6qR3tiU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-gtfppP6qR3tiU">via GIPHY</a></p></div>
-
+  <div align="center">
+    <img src="https://giphy.com/embed/gtfppP6qR3tiU/giphy.gif" width="600" height="300"/>
+  </div>
 
 - 👋 Hi, I’m @visionthex
 - 👀 I’m interested in CyberSecurity
