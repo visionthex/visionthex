@@ -2,15 +2,20 @@
     <img src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif" width="600" height="300"/>
   </div>
   
-- 👋 Hi, I’m @visionthex
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning some programing in Python and C++.  I am also really intesested in CyberSecurity and doing anything related to that.
-- 💞️ I’m looking to collaborate on anything that I can learn from.
+# About Me
 
-I am also trying to learn how to use GitHub Properly.
+Hi there! 👋 I'm VISIONTHEX, a passionate Programming and Cybersecurity. Welcome to my GitHub profile!
 
+## 🚀 Quick Overview
 
-<!---
-visionthex/visionthex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on Random Projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 👯 I’m looking to collaborate on nothing right now.
+- 💬 Ask me about the sky.
+- 📫 How to reach me: @visionthex.
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=visionthex&show_icons=true&count_private=true&hide=contribs)](https://github.com/visionthex)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
