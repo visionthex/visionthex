@@ -1,4 +1,4 @@
-![Computer](my_video.mov)
+![Computer](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/Computer.mp4)
 
 - 👋 Hi, I’m @visionthex
 - 👀 I’m interested in CyberSecurity
