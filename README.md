@@ -4,7 +4,7 @@
   
 # About Me
 
-Hi there! 👋 I'm VISIONTHEX, a passionate Programming and Cybersecurity. Welcome to my GitHub profile!
+Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusiast. Welcome to my GitHub profile!
 
 ## 🚀 Quick Overview
 
