@@ -14,6 +14,13 @@ Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusia
 - 💬 Ask me about the sky.
 - 📫 How to reach me: @visionthex.
 
+## Technologies
+
+- Python
+- JavaScript
+- Cybersecurity
+- HTML/CSS
+
 ## 📊 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=visionthex&show_icons=true&count_private=true&hide=contribs)](https://github.com/visionthex)
@@ -22,12 +29,5 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ## Badges
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/visionthex?style=social)](https://twitter.com/visionthex)
+[![Twitter Follow](https://img.shields.io/twitter/follow/virelus?style=social)](https://twitter.com/virelus)
 [![GitHub followers](https://img.shields.io/github/followers/visionthex?style=social)](https://github.com/visionthex)
-
-## Technologies
-
-- Python
-- JavaScript
-- Cybersecurity
-- HTML/CSS
