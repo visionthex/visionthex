@@ -4,7 +4,6 @@
 
     
 # About Me
-[![Twitter Follow](https://img.shields.io/linkedin/follow/charles-w-sanders?style=social)](https://www.linkedin.com/in/charles-w-sanders/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/virelus?style=social)](https://twitter.com/virelus)
 [![GitHub followers](https://img.shields.io/github/followers/visionthex?style=social)](https://github.com/visionthex)
 
