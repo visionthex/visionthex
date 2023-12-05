@@ -1,7 +1,7 @@
-![Code](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/blue-code.gif)
-    
-</div>
-    
+<p align="center">
+  <img width="400" height="400" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/blue-code.gif" alt="Your Image">
+</p>
+
 # About Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/virelus?style=social)](https://twitter.com/virelus)
 [![GitHub followers](https://img.shields.io/github/followers/visionthex?style=social)](https://github.com/visionthex)
