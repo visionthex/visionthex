@@ -26,4 +26,4 @@ Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusia
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
 
-![CompTIA Security+](https://github.com/visionthex/SANS2022-Holiday-Hack-Challange.png)
+
