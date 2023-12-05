@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/giphy.gif" width="600" height="300"/>
+    <img src="https://tenor.com/view/blue-code-wall-gif-11570089" width="600" height="300"/>
   </div>
 
     
