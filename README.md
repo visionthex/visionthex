@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="\https://media.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif" width="600" height="300"/>
+    <img src="\https://media.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif" height="100%"/>
   </div>
 
     
