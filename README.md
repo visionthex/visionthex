@@ -18,7 +18,7 @@ Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusia
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F3134?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Language](https://img.shields.io/badge/Language-Visual%20Basic-blue.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F3134?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-blue)
 
 ## 📊 GitHub Stats
 
