@@ -18,12 +18,16 @@ Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusia
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F3134?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F3134?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?logo=visualbasic&logoColor=white&style=flat-square)
 
 ## 📊 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=visionthex&show_icons=true&count_private=true&hide=contribs)](https://github.com/visionthex)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
+
+## 🌐 Certifications
+
+![ETA-I](https://img.shields.io/badge/-ESNT-d73d45?logo=eta-i&logoColor=white&style=flat-square) ![ETA-I](https://img.shields.io/badge/-ITS-d73d45?logo=eta-i&logoColor=white&style=flat-square) ![Security+](https://img.shields.io/badge/-Security%2B-C8202F?logo=comptia&logoColor=white&style=flat-square) ![SANS](https://img.shields.io/badge/-GFACT-2c537c?logo=sans&logoColor=white&style=flat-square)
 
 
