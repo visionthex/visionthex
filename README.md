@@ -1,7 +1,4 @@
-  <div align="center">
-    <img src="\https://media.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif"/>
-  </div>
-
+<div class="tenor-gif-embed" data-postid="11570089" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/blue-code-wall-gif-11570089">Blue Code Wall GIF</a>from <a href="https://tenor.com/search/blue-gifs">Blue GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     
 # About Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/virelus?style=social)](https://twitter.com/virelus)
