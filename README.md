@@ -19,7 +19,7 @@
 
 ## 🌐 Certifications
 
-![ETA-I](https://img.shields.io/badge/-ESNT-d73d45?logo=eta-i&logoColor=white&style=flat-square) ![ETA-I](https://img.shields.io/badge/-ITS-d73d45?logo=eta-i&logoColor=white&style=flat-square) ![Security+](https://img.shields.io/badge/-Security%2B-C8202F?logo=comptia&logoColor=white&style=flat-square) ![SANS](https://img.shields.io/badge/-GFACT-2c537c?logo=sans&logoColor=white&style=flat-square)
+[![Cert1](https://img.shields.io/badge/ETAI-ESNT-d73d45?style=flat-square)](https://www.credly.com/earner/earned/badge/fed552da-6138-4a27-bccf-0cf8cbaae45b) [![Cert2](https://img.shields.io/badge/ETAI-ITS-d73d45?style=flat-square)](https://www.credly.com/earner/earned/badge/9b71e96d-fcaa-40d2-a60c-be1845bdd383) [![Cert3](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square)](https://www.credly.com/earner/earned/badge/ad869ffd-30ff-404b-ad3f-bd237bbc4236) [![Cert4](https://img.shields.io/badge/SANS-GFACT-6c2c87?style=flat-square)](https://www.credly.com/earner/earned/badge/dc7700ed-a48a-4e84-93a1-de38fb9f2c0e)
 
 ## Technologies
 
