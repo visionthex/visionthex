@@ -25,12 +25,12 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,dotnet,c)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,dotnet,c)
 
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=visionthex&show_icons=true&line_height=27&count_private=true)](https://github.com/visionthex)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=visionthex&theme=github_dark) ![stats2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=visionthex&theme=github_dark)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
 
