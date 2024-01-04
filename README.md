@@ -35,3 +35,5 @@
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
 
 ![counter](https://komarev.com/ghpvc/?username=visionthex&color=0E9C47&style=for-the-badge")
+
+![trophy](https://github-profile-trophy.vercel.app/?username=visionthex&theme=darkhub&no-frame=true&margin-w=10&column=8)
