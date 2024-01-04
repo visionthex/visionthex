@@ -3,7 +3,6 @@
 </p>
 
 # About Me
-[![Twitter Follow](https://img.shields.io/twitter/follow/virelus?style=social)](https://twitter.com/virelus)
 [![GitHub followers](https://img.shields.io/github/followers/visionthex?style=social)](https://github.com/visionthex)
 
 <p>Hi there! 👋 I'm VISIONTHEX, a passionate Programer and Cybersecurity Enthusiast. Welcome to my GitHub profile!</p>
