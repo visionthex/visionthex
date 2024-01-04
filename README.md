@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="280" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/blue-code.gif" alt="Code Image">
+  <img width="990" height="280" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/code.gif" alt="Code Image">
 </p>
 
 # About Me
