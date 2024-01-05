@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 <p align="right">
-  <img width="40" height="40" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/cat.png" alt="Cat Image">
+  <img width="40" height="40" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/R.gif" alt="Cat Image">
 </p>
 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=visionthex&theme=github_dark) ![stats2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=visionthex&theme=github_dark) 
