@@ -24,7 +24,7 @@
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,dotnet,c)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,dotnet,c)
 
 
 ## 📊 GitHub Stats
