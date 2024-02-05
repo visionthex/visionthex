@@ -1,4 +1,4 @@
-https://www.credly.com/badges/ab8067ba-9d11-42cd-9395-93295afe34b6<p align="center">
+<p align="center">
   <img width="990" height="280" src="https://github.com/visionthex/SANS2022-Holiday-Hack-Challange/blob/main/Images/code.gif" alt="Code Image">
 </p>
 
