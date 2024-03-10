@@ -25,7 +25,7 @@
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,dotnet,c,haskell)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,dotnet,c)
 ##
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,mui,postgres)
 
